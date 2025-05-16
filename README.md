@@ -25,17 +25,3 @@
 - Thống kê đơn hàng, doanh thu theo ngày/tháng
 
 ---
-
-## 🗃️ Cấu trúc dự án
-src/
-└── main/
-├── java/
-│ └── com.example.Loc/
-│ ├── controller/
-│ ├── service/
-│ ├── repository/
-│ ├── model/
-│  ── dto/
-└── resources/
-├── application.properties
-└── static/
